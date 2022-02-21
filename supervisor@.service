@@ -1,0 +1,15 @@
+[Unit]
+Description=Supervisor service for %I
+After=syslog.target
+After=network.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/opt/supervisor/start_sv.sh -c=/opt/supervisor/supervisor.conf
+ExecStop=/opt/supervisor/stop_sv.sh %i
+PIDFile=/var/run/supervisor-%i.pid
+WorkingDirectory=/opt/supervisor
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,22 @@
+logfile is /home/vova/btest/logfile.log
+search is Error
+task is httpd
+Detected
+Detected
+Detected
+Detected
+Detected
+Detected
+Detected
+logfile is /opt/supervisor/logfile.log
+search is Error
+task is httpd
+logfile is /opt/supervisor/logfile.log
+search is Error
+task is httpd
+Detected
+Detected
+Detected
+Detected
+Detected
+Detected

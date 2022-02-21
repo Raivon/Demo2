@@ -1,0 +1,46 @@
+Dec 27 00:01:30 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:31 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:32 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:33 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:35 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:30 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:31 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:32 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:33 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:35 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:30 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:31 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:32 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:33 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: SomeError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:35 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:33 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: SomeError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last)
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
+Dec 27 00:01:34 ip-10-0-5-224 worker-tasks: [2019-12-27 00:01:30,710: ERROR/MainProcess] Error in timer: TimeoutError('Timeout reading from socket',) Traceback (most recent call last) \n
